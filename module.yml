@@ -1,0 +1,8 @@
+name: wren-module
+version: 0.1.0
+description: Unfinieshed Wren module
+author: Jane Doe <jane@example.com>
+license: UNLICENSED
+entry: main.wren
+tests: src/**/*.spec.wren
+devDependencies: [wren-assert, wren-package]
